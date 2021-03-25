@@ -2,6 +2,8 @@
 [![GitHub release](https://img.shields.io/github/release/stevimeister/deposit-plugin)](https://github.com/stevimeister/combat-plugin/releases/)
 [![bStats Players](https://img.shields.io/bstats/players/10799)](https://bstats.org/plugin/bukkit/deposit-plugin/10799)
 [![bStats Players](https://img.shields.io/bstats/servers/10799)](https://bstats.org/plugin/bukkit/deposit-plugin/10799)
+[![Code Grade](https://www.code-inspector.com/project/20508/status/svg)](https://www.code-inspector.com)
+
 # Czym jest deposit-plugin?
 * Prosta wtyczka na serwery Minecraft mająca za zadanie limitować ilość wybranych przedmiotów w ekwipunku i trzymanie ich w depozycie
 
